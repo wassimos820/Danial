@@ -1,0 +1,6 @@
+﻿owner=639639252917026828
+prefix=
+game=Hached-By-Danail
+stayinchannel=true
+songinstatus=false
+token=Njg5OTc1NzcyNDAzNzI4NDA5.XnKsWg.VqNEOIXtKP3lyOB701gQEL4IvQ4
